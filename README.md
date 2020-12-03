@@ -1,1 +1,1 @@
-"# C:\Users\user\Desktop\my-new-project"  
+"# C:\Users\user\Desktop\GitProject" 
